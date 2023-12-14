@@ -1,4 +1,4 @@
-// calculateAverage
+
 #include <iostream>
 using namespace std;
 double calculateAverage(double a,double b,double c);
